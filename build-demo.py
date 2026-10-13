@@ -57,3 +57,6 @@ for p in ROOT.rglob('*.html'):
  if '/demo/navigation.js' not in s:s=s.replace('</body>','<script src="/demo/navigation.js" defer></script></body>')
  p.write_text(s)
 print('Demo-overzicht, twee informatiepagina’s en gedeelde navigatie gemaakt.')
+
+import subprocess, sys
+subprocess.run([sys.executable, str(ROOT / "refresh-editorial.py")], check=True)
