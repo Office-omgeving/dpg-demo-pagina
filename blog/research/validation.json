@@ -1,0 +1,10 @@
+{
+  "pages": 35,
+  "articles": 30,
+  "sectors": {
+    "dakwerken": 10,
+    "zonnepanelen": 10,
+    "thuisbatterij": 10
+  },
+  "local_link_errors": []
+}

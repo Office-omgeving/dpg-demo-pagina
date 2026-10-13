@@ -1,0 +1,6 @@
+{
+  "articles": 30,
+  "unique_photo_files": 60,
+  "unique_photo_hashes": 60,
+  "two_subject_specific_images_per_article": true
+}

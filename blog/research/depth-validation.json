@@ -1,0 +1,34 @@
+{
+  "sectors": {
+    "dakwerken": {
+      "short": 5,
+      "deep": 5,
+      "deep_word_range": [
+        847,
+        910
+      ],
+      "short_text_unchanged": true
+    },
+    "zonnepanelen": {
+      "short": 5,
+      "deep": 5,
+      "deep_word_range": [
+        836,
+        861
+      ],
+      "short_text_unchanged": true
+    },
+    "thuisbatterij": {
+      "short": 5,
+      "deep": 5,
+      "deep_word_range": [
+        853,
+        876
+      ],
+      "short_text_unchanged": true
+    }
+  },
+  "local_links_and_anchors": "passed",
+  "unique_photos": 60,
+  "mobile_overflow": "fixed and verified"
+}

@@ -1,0 +1,482 @@
+[
+  {
+    "title": "Je dak winterklaar laten nakijken: wat vraag je aan de dakwerker?",
+    "path": "dakwerken/dakcheck-voor-de-winter/",
+    "angle": "Seizoensgebonden inspectie en prioriteiten; geen algemene isolatiegids.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/hoogzomer-hoe-haal-je-een-maximaal-voordeel-uit-jouw-zonnepanelen",
+        "score": 0.03
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/energieverbruik-winter-de-beste-tips-om-te-besparen",
+        "score": 0.023
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Twee dakoffertes vergelijken? Begin met deze zes posten",
+    "path": "dakwerken/dakoffertes-post-voor-post/",
+    "angle": "Offertemethodiek voor dakwerken; niet het bestaande artikel over offertestops bij PV.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/minder-gas-verbruiken-in-de-winter-deze-stappen-kan-je-nu-al-zetten",
+        "score": 0.045
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/betalen-alle-eigenaars-van-zonnepanelen-en-een-terugdraaiende-teller-binnenkort-een-extra-vergoeding",
+        "score": 0.043
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Vocht op zolder: welke informatie helpt bij het onderscheid tussen condensatie en een lek?",
+    "path": "dakwerken/zolder-condensatie-of-lek/",
+    "angle": "Diagnosedossier vóór isolatie; concreter dan algemene energiebesparing.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/zes-tips-om-minder-energie-te-verbruiken-tijdens-de-lente",
+        "score": 0.043
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/na-een-jaar-capaciteitstarief-vooral-gezinnen-met-groot-verbruik-reduceren-verbruikspiek",
+        "score": 0.028
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Hellend dak en plat dak in twee fases renoveren: zo bespreek je de overgang",
+    "path": "dakwerken/sarking-en-aanbouw-faseren/",
+    "angle": "Fasering van één specifieke dakaansluiting; geen algemene sarking-uitleg.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/gasmeter-registreert-verbruik-in-m%c2%b3-maar-factuur-vermeldt-kwh-hoe-komt-dat",
+        "score": 0.034
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/energie-verbruik-verminderen-thuiswerk",
+        "score": 0.024
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Dakraam behouden of vervangen tijdens dakwerken? Bespreek ook de aansluiting",
+    "path": "dakwerken/dakraam-meenemen-in-renovatie/",
+    "angle": "Aansluitingen en werkomschrijving van dakramen; niche zonder exacte gevonden tegenhanger.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/hitte-geen-goed-nieuws-voor-zonnepaneleneigenaars-hoe-vergroot-je-het-rendement",
+        "score": 0.036
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/zes-tips-om-minder-energie-te-verbruiken-tijdens-de-lente",
+        "score": 0.031
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Asbestonderzoek vóór de dakofferte: waarom de volgorde telt",
+    "path": "dakwerken/asbestcheck-voor-dakofferte/",
+    "angle": "Onderzoek en offertevolgorde; geen algemene asbestinventaris of premiebedragen.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/energie-verbruik-verminderen-thuiswerk",
+        "score": 0.027
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/fluvius-maakt-jaarfacturatie-op-basis-van-reele-maandverbruiken-mogelijk",
+        "score": 0.021
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Water op je platte dak na regen: wat laat je controleren?",
+    "path": "dakwerken/plat-dak-afvoer-na-regen/",
+    "angle": "Observatie- en onderhoudsprotocol; niet een generiek artikel over platte daken.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/energieverbruik-vorig-jaar-op-laagste-punt-sinds-1995",
+        "score": 0.042
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/injectievergoeding-tot-75-lager-dan-verbruikstarief",
+        "score": 0.035
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Dakrenovatie terwijl er al zonnepanelen liggen: wie doet wat?",
+    "path": "dakwerken/dakrenovatie-met-bestaande-panelen/",
+    "angle": "Organisatie van demontage en herplaatsing; geen tuin- of tuinhuis-PV-artikel.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/extra-kosten-energieleveranciers-maken-energiedelen-vaak-nadelig",
+        "score": 0.033
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/wat-is-de-terugverdientijd-van-een-thuisbatterij",
+        "score": 0.033
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Blijven wonen tijdens dakwerken: deze afspraken maken het verschil",
+    "path": "dakwerken/wonen-tijdens-dakrenovatie/",
+    "angle": "Bewonersplanning en uitvoeringsafspraken; geen technische isolatiekopie.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/wasmachine-kopen-tijdens-solden-zo-belangrijk-is-het-energieverbruik",
+        "score": 0.038
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/zes-tips-om-minder-energie-te-verbruiken-tijdens-de-lente",
+        "score": 0.03
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Dakwerken klaar? Bewaar dit opleverdossier voor later",
+    "path": "dakwerken/dakrenovatie-opleverdossier/",
+    "angle": "Documentoverdracht na dakrenovatie; unieke praktische invalshoek.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/elektriciteitsverbruik-berekenen",
+        "score": 0.026
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/zonnepanelen-einde-van-compensatiesysteem",
+        "score": 0.025
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Eerst het dak vernieuwen of eerst zonnepanelen leggen?",
+    "path": "zonnepanelen/dak-eerst-of-panelen-eerst/",
+    "angle": "Renovatievolgorde; geen bestaande prijs- of aantallenblog.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/wordt-het-terugleveren-van-de-stroom-van-onze-zonnepanelen-ook-bij-ons-beperkt",
+        "score": 0.025
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/energieverbruik-winter-de-beste-tips-om-te-besparen",
+        "score": 0.024
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Een PV-offerte met hoge besparing: welke aannames vraag je op?",
+    "path": "zonnepanelen/pv-offerte-opbrengstaannames/",
+    "angle": "Audit van offerteberekeningen; aanvullend op bestaande algemene prijs- en rendementblogs.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/wat-is-de-terugverdientijd-van-zonnepanelen-bij-de-gedaalde-stroomprijzen",
+        "score": 0.038
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/hoe-weet-de-energieleverancier-hoeveel-je-maandelijks-verbruikt",
+        "score": 0.03
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Je oude omvormer vervangen: welke gegevens neem je mee naar de installateur?",
+    "path": "zonnepanelen/omvormer-vervangen-dossier/",
+    "angle": "Voorbereiding van een vervangingsdossier; niet de bestaande blogs over omvormeruitval.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/garantie-oorsprong-groene-stroom",
+        "score": 0.031
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/zonnepanelen-deze-prijs-betaal-je-gemiddeld-voor-een-pv-installatie",
+        "score": 0.03
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "De eerste maand met zonnepanelen: maak een bruikbaar monitoringlogboek",
+    "path": "zonnepanelen/pv-monitoring-na-oplevering/",
+    "angle": "Opleverlogboek en meetdefinities; geen herhaling van algemene zelfverbruiktips.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/installatie-zonnepanelen-op-recordkoers-maar-sector-nuanceert",
+        "score": 0.036
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/capaciteitstarief-in-aantocht-welke-toestellen-kennen-het-hoogste-piekverbruik",
+        "score": 0.031
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Later zonnepanelen plaatsen? Bespreek de kabelroute nu al bij je renovatie",
+    "path": "zonnepanelen/kabelroute-bij-renovatie/",
+    "angle": "Bouwkundige voorbereiding tijdens renovatie; geen algemene aankoopgids.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/hoeveel-zonnepanelen-heb-je-nodig-in-belgie",
+        "score": 0.032
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/wekken-we-binnenkort-stroom-op-met-regenpanelen-op-onze-daken",
+        "score": 0.022
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Zonnepanelen op een plat dak: laat ruimte voor onderhoud op het legplan",
+    "path": "zonnepanelen/plat-dak-legplan-onderhoud/",
+    "angle": "Onderhoudsruimte op het legplan; verschilt van bestaande groendak- en tuinhuisartikels.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/op-zoek-naar-verfrissing-in-huis-zo-veel-verbruikt-een-airco",
+        "score": 0.032
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/hoe-haal-je-het-verbruik-van-je-diepvries-naar-beneden",
+        "score": 0.031
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Zonnepanelen opgeleverd: controleer deze documenten en toegangen",
+    "path": "zonnepanelen/pv-oplevering-checklist/",
+    "angle": "Opleverdocumenten en toegang; geen bestaande prijs- of rendementblog.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/garantie-oorsprong-groene-stroom",
+        "score": 0.048
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/zonnepanelen-produceren-meer-stroom-op-dagen-met-wolken",
+        "score": 0.042
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Een woning met zonnepanelen kopen: vraag dit installatiedossier op",
+    "path": "zonnepanelen/woning-kopen-met-zonnepanelen/",
+    "angle": "Aankoopdossier van een bestaande woning; geen algemene PV-investeringsblog.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/zonne-energie-je-ontvangt-acht-keer-minder-dan-je-zelf-betaalt",
+        "score": 0.038
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/vlaming-verbruikt-minder-energie-in-tijden-van-hoge-energieprijzen",
+        "score": 0.023
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Zonnepanelen op een appartementsgebouw: maak eerst een beslisdossier",
+    "path": "zonnepanelen/appartement-pv-beslisdossier/",
+    "angle": "VME-beslisdossier vóór installatie; aanvullend op bestaande energiedelen-uitleg.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/eigenaars-zonnepanelen-moeten-zelfverbruik-opkrikken-wat-levert-het-jou-op",
+        "score": 0.039
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/installatie-zonnepanelen-op-recordkoers-maar-sector-nuanceert",
+        "score": 0.034
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Een PV-installatie voorbereiden op later: welke opties laat je echt vastleggen?",
+    "path": "zonnepanelen/pv-toekomstplan-zonder-overbelofte/",
+    "angle": "Betekenis van toekomstige opties op offertes; geen algemene omvormervergelijking.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/zonnepanelen-deze-prijs-betaal-je-gemiddeld-voor-een-pv-installatie",
+        "score": 0.042
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/installatie-zonnepanelen-op-recordkoers-maar-sector-nuanceert",
+        "score": 0.033
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Een thuisbatterij laten adviseren? Neem dit meetdossier mee",
+    "path": "thuisbatterij/meetdossier-voor-batterijadvies/",
+    "angle": "Voorbereiding van gegevens; aanvullend op bestaande algemene capaciteits- en zelfverbruikartikels.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/ook-engie-rekent-nu-kosten-aan-voor-energiedelen",
+        "score": 0.051
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/thuisbatterij-werking-prijs-terugverdientijd-en-alle-andere-dingen-die-je-moet-weten",
+        "score": 0.042
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Batterijgarantie vergelijken: kijk verder dan het aantal jaren",
+    "path": "thuisbatterij/garantie-doorvoer-vergelijken/",
+    "angle": "Garantiedocumenten en doorvoergrenzen; geen herhaling van algemene levensduur-uitleg.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/installatie-zonnepanelen-op-recordkoers-maar-sector-nuanceert",
+        "score": 0.052
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/sluipverbruik",
+        "score": 0.046
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Slimme batterijsturing met abonnement: welke afspraken lees je vóór je tekent?",
+    "path": "thuisbatterij/slimme-sturing-abonnement/",
+    "angle": "Dienstverlening en stopscenario; niet een algemene dynamische-tarievenblog.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/is-een-warmtepomp-voldoende-rendabel-zonder-zonnepanelen",
+        "score": 0.036
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/ook-bolt-energie-rekent-kosten-aan-voor-energiedelen",
+        "score": 0.031
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Noodstroom bij je thuisbatterij: vraag een demonstratie bij de oplevering",
+    "path": "thuisbatterij/noodstroom-oplevertest/",
+    "angle": "Oplevertest en afbakening; aanvullend op algemene noodstroompassages bij Mijnenergie.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/huishoudtoestellen-die-automatisch-in-werking-treden-bij-zonneschijn-wat-zijn-de-voor-en-nadelen",
+        "score": 0.043
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/zes-tips-om-minder-energie-te-verbruiken-tijdens-de-lente",
+        "score": 0.034
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Thuisbatterijadvies in oktober: vraag ook om een winterprofiel",
+    "path": "thuisbatterij/winterprofiel-batterijsimulatie/",
+    "angle": "Seizoenscontrole van een aankoopadvies; geen generieke rendementsblog.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/hoeveel-brengen-je-zonnepanelen-exact-op-tijdens-zonnige-dagen",
+        "score": 0.038
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/lagere-stroomproductie-op-zonnige-dagen-als-oplossing-voor-uitvallende-omvormers",
+        "score": 0.038
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Een batterij bij bestaande zonnepanelen: verdeel de verantwoordelijkheden",
+    "path": "thuisbatterij/bestaande-pv-batterij-retrofit/",
+    "angle": "Taakverdeling bij retrofit; concreter dan algemene omvormeruitleg.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/recent-zonnepanelen-gelegd-of-plan-je-een-nieuwe-installatie-zo-kies-je-je-energieleverancier",
+        "score": 0.04
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/nieuwe-zonnepaneleneigenaars-krijgen-90-dagen-extra-voor-plaatsing-digitale-meter",
+        "score": 0.023
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Batterijvermogen en je fases: welke vraag ontbreekt vaak op de offerte?",
+    "path": "thuisbatterij/batterijvermogen-per-fase/",
+    "angle": "Prestaties per systeemconfiguratie; aanvullende technische aankoopvraag.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/energie-opslaan-in-je-appartement-deze-draagbare-thuisbatterij-stop-je-gewoon-in-het-stopcontact",
+        "score": 0.043
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/optimaal-gebruikmaken-van-de-opbrengst-van-je-zonnepanelen-zo-doe-je-dat",
+        "score": 0.042
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "De eerste week met een thuisbatterij: controleer of je meetbeeld begrijpelijk is",
+    "path": "thuisbatterij/eerste-week-meetcontrole/",
+    "angle": "Meetcontrole bij oplevering; geen herhaling van zelfverbruikadvies.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/wat-met-je-al-opgespaarde-zonnepanelenopbrengst-bij-plaatsing-digitale-meter",
+        "score": 0.04
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/hoeveel-elektriciteit-verbruikt-een-elektrische-auto",
+        "score": 0.038
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Een woning met thuisbatterij verkopen: draag ook het beheer over",
+    "path": "thuisbatterij/woningoverdracht-batterij-account/",
+    "angle": "Digitale eigendomsoverdracht; geen bestaande batterijaankoopgids.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/plug-and-play-zonnepanelen-belgie-2025",
+        "score": 0.043
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/nieuwe-zonnepaneleneigenaars-krijgen-90-dagen-extra-voor-plaatsing-digitale-meter",
+        "score": 0.043
+      }
+    ],
+    "exact_slug_match": false
+  },
+  {
+    "title": "Batterijrendement vergelijken: vraag wat de berekening met verliezen doet",
+    "path": "thuisbatterij/verlies-en-standby-offerte/",
+    "angle": "Systeemgrens en verliesaannames; aanvullend op bestaande prijs/terugverdientijdblogs.",
+    "nearest": [
+      {
+        "url": "https://www.mijnenergie.be/blog/hoe-haal-je-het-verbruik-van-je-diepvries-naar-beneden",
+        "score": 0.092
+      },
+      {
+        "url": "https://www.mijnenergie.be/blog/hoeveel-zonnepanelen-heb-je-nodig-in-belgie",
+        "score": 0.075
+      }
+    ],
+    "exact_slug_match": false
+  }
+]
