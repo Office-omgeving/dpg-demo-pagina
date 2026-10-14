@@ -60,3 +60,9 @@ print('Demo-overzicht, twee informatiepagina’s en gedeelde navigatie gemaakt.'
 
 import subprocess, sys
 subprocess.run([sys.executable, str(ROOT / "refresh-editorial.py")], check=True)
+
+subprocess.run([sys.executable, str(ROOT / "expand-pillars.py")], check=True)
+
+# Restore reviewed full pillar pages, including FAQs and current subsidy guidance.
+for topic in ("dakwerken", "zonnepanelen", "thuisbatterij"):
+    (ROOT / f"{topic}-info" / "index.html").write_text((ROOT / "pillar-templates" / f"{topic}.html").read_text())
